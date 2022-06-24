@@ -1,0 +1,6 @@
+Dark Blue: #1F0D38
+Red: #C02A27
+Orange: #FC5F00
+Deep blue: #2F8DBC
+Light blue: #70ADBA
+Yellow-grey: #A39865
